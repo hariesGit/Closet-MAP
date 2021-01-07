@@ -1,4 +1,4 @@
-# pet_ui
+# closet-MAP
 
 A new Flutter application.
 
